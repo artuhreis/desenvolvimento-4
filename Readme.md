@@ -5,3 +5,5 @@ Faça uma função calculadora de dois números com três parâmetros: os dois p
 2. Subtração
 3. Multiplicação
 4. Divisão
+
+Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
