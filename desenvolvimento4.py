@@ -1,6 +1,6 @@
 # Definindo a função da Calculadora
 def calculadora (num1,num2,operacao):
-    # Escolhendo a operação.
+    
     if operacao == 1:
         return  num1 + num2
     
